@@ -1,0 +1,783 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SPORTV 1 FULL HD">
+    <display-name lang="pt">SPORTV 1 FULL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORTV 1 HD">
+    <display-name lang="pt">SPORTV 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORTV 1">
+    <display-name lang="pt">SPORTV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210124003000 +0000" stop="20210124023000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Atalanta</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124023000 +0000" stop="20210124030000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 2º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124030000 +0000" stop="20210124060000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124060000 +0000" stop="20210124064500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124064500 +0000" stop="20210124083500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - AS Roma x Spezia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124083500 +0000" stop="20210124104000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124104000 +0000" stop="20210124111500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124111500 +0000" stop="20210124132000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Mafra x Estoril (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124132000 +0000" stop="20210124150000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Power Stage</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124150000 +0000" stop="20210124173000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124173000 +0000" stop="20210124194000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124194000 +0000" stop="20210124201500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124201500 +0000" stop="20210124223000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124223000 +0000" stop="20210125003000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125003000 +0000" stop="20210125010000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 3º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125010000 +0000" stop="20210125033000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NBA - Bucks x Hawks (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125033000 +0000" stop="20210125034000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Holandesa - Golos da 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125034000 +0000" stop="20210125041000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125041000 +0000" stop="20210125044000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125044000 +0000" stop="20210125063000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Campeonato Nacional de Voleibol - Castêlo da Maia x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125063000 +0000" stop="20210125072000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Watersports World</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125072000 +0000" stop="20210125075000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">FIBA World Basketball</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125075000 +0000" stop="20210125100000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125100000 +0000" stop="20210125121000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125121000 +0000" stop="20210125142000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125142000 +0000" stop="20210125163000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - Juventus x Bolonha</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125163000 +0000" stop="20210125184000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125184000 +0000" stop="20210125191000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125191000 +0000" stop="20210125201500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Antevisão Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125201500 +0000" stop="20210125224500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125224500 +0000" stop="20210125232000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125232000 +0000" stop="20210126013000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Wycombe Wanderers x Tottenham - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126013000 +0000" stop="20210126040000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NBA - Mavericks x Nuggets (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126040000 +0000" stop="20210126080000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126080000 +0000" stop="20210126101000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Belenenses SAD x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126101000 +0000" stop="20210126122000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126122000 +0000" stop="20210126125000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126125000 +0000" stop="20210126131000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126131000 +0000" stop="20210126152000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126152000 +0000" stop="20210126173000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126180000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126180000 +0000" stop="20210126200000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Rei - Valladolid x Levante - Oitavos-de-final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126200000 +0000" stop="20210126201000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126201000 +0000" stop="20210126203000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126203000 +0000" stop="20210126211500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Antevisão Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126211500 +0000" stop="20210126234000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126234000 +0000" stop="20210127013000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127013000 +0000" stop="20210127020000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127020000 +0000" stop="20210127041000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127041000 +0000" stop="20210127060000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Euroliga - FC Barcelona Lassa x BC Zenit</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127060000 +0000" stop="20210127082000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NHL - Hurricanes x Tampa Bay Lightning</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127082000 +0000" stop="20210127085000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Resumos da 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127085000 +0000" stop="20210127092000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127092000 +0000" stop="20210127095000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Superliga Turca - Resumo da 21ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127095000 +0000" stop="20210127120000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127120000 +0000" stop="20210127141000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127141000 +0000" stop="20210127144000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127144000 +0000" stop="20210127164500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127164500 +0000" stop="20210127185000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Lazio x Parma - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127185000 +0000" stop="20210127190000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127190000 +0000" stop="20210127193000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127193000 +0000" stop="20210127201500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127201500 +0000" stop="20210127221000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127221000 +0000" stop="20210128000000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Chelsea x Wolverhampton</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124003000 +0000" stop="20210124023000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Atalanta</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124023000 +0000" stop="20210124030000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 2º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124030000 +0000" stop="20210124060000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124060000 +0000" stop="20210124064500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124064500 +0000" stop="20210124083500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga Italiana 2020-21 - AS Roma x Spezia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124083500 +0000" stop="20210124104000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124104000 +0000" stop="20210124111500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Segunda Liga - Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124111500 +0000" stop="20210124132000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Segunda Liga - Mafra x Estoril (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124132000 +0000" stop="20210124150000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Power Stage</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124150000 +0000" stop="20210124173000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124173000 +0000" stop="20210124194000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124194000 +0000" stop="20210124201500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124201500 +0000" stop="20210124223000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124223000 +0000" stop="20210125003000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125003000 +0000" stop="20210125010000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 3º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125010000 +0000" stop="20210125033000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">NBA - Bucks x Hawks (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125033000 +0000" stop="20210125034000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga Holandesa - Golos da 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125034000 +0000" stop="20210125041000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125041000 +0000" stop="20210125044000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125044000 +0000" stop="20210125063000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Campeonato Nacional de Voleibol - Castêlo da Maia x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125063000 +0000" stop="20210125072000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Watersports World</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125072000 +0000" stop="20210125075000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">FIBA World Basketball</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125075000 +0000" stop="20210125100000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125100000 +0000" stop="20210125121000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125121000 +0000" stop="20210125142000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125142000 +0000" stop="20210125163000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga Italiana 2020-21 - Juventus x Bolonha</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125163000 +0000" stop="20210125184000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125184000 +0000" stop="20210125191000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125191000 +0000" stop="20210125201500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Antevisão Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125201500 +0000" stop="20210125224500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125224500 +0000" stop="20210125232000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125232000 +0000" stop="20210126013000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Inglaterra - Wycombe Wanderers x Tottenham - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126013000 +0000" stop="20210126040000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">NBA - Mavericks x Nuggets (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126040000 +0000" stop="20210126080000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126080000 +0000" stop="20210126101000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Belenenses SAD x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126101000 +0000" stop="20210126122000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126122000 +0000" stop="20210126125000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126125000 +0000" stop="20210126131000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126131000 +0000" stop="20210126152000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126152000 +0000" stop="20210126173000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126180000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126180000 +0000" stop="20210126200000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça do Rei - Valladolid x Levante - Oitavos-de-final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126200000 +0000" stop="20210126201000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126201000 +0000" stop="20210126203000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126203000 +0000" stop="20210126211500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Antevisão Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126211500 +0000" stop="20210126234000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126234000 +0000" stop="20210127013000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127013000 +0000" stop="20210127020000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127020000 +0000" stop="20210127041000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127041000 +0000" stop="20210127060000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Euroliga - FC Barcelona Lassa x BC Zenit</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127060000 +0000" stop="20210127082000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">NHL - Hurricanes x Tampa Bay Lightning</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127082000 +0000" stop="20210127085000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Inglaterra - Resumos da 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127085000 +0000" stop="20210127092000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127092000 +0000" stop="20210127095000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Superliga Turca - Resumo da 21ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127095000 +0000" stop="20210127120000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127120000 +0000" stop="20210127141000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127141000 +0000" stop="20210127144000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127144000 +0000" stop="20210127164500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127164500 +0000" stop="20210127185000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Itália - Lazio x Parma - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127185000 +0000" stop="20210127190000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127190000 +0000" stop="20210127193000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127193000 +0000" stop="20210127201500 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127201500 +0000" stop="20210127221000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127221000 +0000" stop="20210128000000 +0000" channel="SPORTV 1 HD">
+    <title lang="pt">Premier League - Chelsea x Wolverhampton</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124003000 +0000" stop="20210124023000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Atalanta</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124023000 +0000" stop="20210124030000 +0000" channel="SPORTV 1">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 2º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124030000 +0000" stop="20210124060000 +0000" channel="SPORTV 1">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124060000 +0000" stop="20210124064500 +0000" channel="SPORTV 1">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124064500 +0000" stop="20210124083500 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga Italiana 2020-21 - AS Roma x Spezia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124083500 +0000" stop="20210124104000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124104000 +0000" stop="20210124111500 +0000" channel="SPORTV 1">
+    <title lang="pt">Segunda Liga - Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124111500 +0000" stop="20210124132000 +0000" channel="SPORTV 1">
+    <title lang="pt">Segunda Liga - Mafra x Estoril (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124132000 +0000" stop="20210124150000 +0000" channel="SPORTV 1">
+    <title lang="pt">WRC - Rali de Monte Carlo - Power Stage</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124150000 +0000" stop="20210124173000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124173000 +0000" stop="20210124194000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124194000 +0000" stop="20210124201500 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124201500 +0000" stop="20210124223000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124223000 +0000" stop="20210125003000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125003000 +0000" stop="20210125010000 +0000" channel="SPORTV 1">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 3º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125010000 +0000" stop="20210125033000 +0000" channel="SPORTV 1">
+    <title lang="pt">NBA - Bucks x Hawks (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125033000 +0000" stop="20210125034000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga Holandesa - Golos da 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125034000 +0000" stop="20210125041000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125041000 +0000" stop="20210125044000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125044000 +0000" stop="20210125063000 +0000" channel="SPORTV 1">
+    <title lang="pt">Campeonato Nacional de Voleibol - Castêlo da Maia x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125063000 +0000" stop="20210125072000 +0000" channel="SPORTV 1">
+    <title lang="pt">Watersports World</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125072000 +0000" stop="20210125075000 +0000" channel="SPORTV 1">
+    <title lang="pt">FIBA World Basketball</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125075000 +0000" stop="20210125100000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125100000 +0000" stop="20210125121000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125121000 +0000" stop="20210125142000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125142000 +0000" stop="20210125163000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga Italiana 2020-21 - Juventus x Bolonha</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125163000 +0000" stop="20210125184000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125184000 +0000" stop="20210125191000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125191000 +0000" stop="20210125201500 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Antevisão Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125201500 +0000" stop="20210125224500 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125224500 +0000" stop="20210125232000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125232000 +0000" stop="20210126013000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Inglaterra - Wycombe Wanderers x Tottenham - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126013000 +0000" stop="20210126040000 +0000" channel="SPORTV 1">
+    <title lang="pt">NBA - Mavericks x Nuggets (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126040000 +0000" stop="20210126080000 +0000" channel="SPORTV 1">
+    <title lang="pt">UFC 257 - Poirier x McGregor</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126080000 +0000" stop="20210126101000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Belenenses SAD x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126101000 +0000" stop="20210126122000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126122000 +0000" stop="20210126125000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126125000 +0000" stop="20210126131000 +0000" channel="SPORTV 1">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126131000 +0000" stop="20210126152000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126152000 +0000" stop="20210126173000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126180000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126180000 +0000" stop="20210126200000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça do Rei - Valladolid x Levante - Oitavos-de-final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126200000 +0000" stop="20210126201000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126201000 +0000" stop="20210126203000 +0000" channel="SPORTV 1">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126203000 +0000" stop="20210126211500 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Antevisão Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126211500 +0000" stop="20210126234000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126234000 +0000" stop="20210127013000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127013000 +0000" stop="20210127020000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127020000 +0000" stop="20210127041000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127041000 +0000" stop="20210127060000 +0000" channel="SPORTV 1">
+    <title lang="pt">Euroliga - FC Barcelona Lassa x BC Zenit</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127060000 +0000" stop="20210127082000 +0000" channel="SPORTV 1">
+    <title lang="pt">NHL - Hurricanes x Tampa Bay Lightning</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127082000 +0000" stop="20210127085000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Inglaterra - Resumos da 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127085000 +0000" stop="20210127092000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127092000 +0000" stop="20210127095000 +0000" channel="SPORTV 1">
+    <title lang="pt">Superliga Turca - Resumo da 21ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127095000 +0000" stop="20210127120000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127120000 +0000" stop="20210127141000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127141000 +0000" stop="20210127144000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127144000 +0000" stop="20210127164500 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127164500 +0000" stop="20210127185000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Itália - Lazio x Parma - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127185000 +0000" stop="20210127190000 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127190000 +0000" stop="20210127193000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127193000 +0000" stop="20210127201500 +0000" channel="SPORTV 1">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127201500 +0000" stop="20210127221000 +0000" channel="SPORTV 1">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127221000 +0000" stop="20210128000000 +0000" channel="SPORTV 1">
+    <title lang="pt">Premier League - Chelsea x Wolverhampton</title>
+    <category lang="pt">desporto</category>
+  </programme>
+</tv>
