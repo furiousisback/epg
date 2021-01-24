@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210124000000 +0000" stop="20210124080000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210125020000 +0000" stop="20210125040000 +0000" channel="MCM POP">
+    <title lang="pt">RFM TV: The Best of Music</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210125040000 +0000" stop="20210125050000 +0000" channel="MCM POP">
+    <title lang="pt">Le Premier Reveil</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210125050000 +0000" stop="20210125080000 +0000" channel="MCM POP">
+    <title lang="pt">Le Meilleur des Reveils</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210125080000 +0000" stop="20210125160000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210126080000 +0000" stop="20210126140000 +0000" channel="MCM POP">
+    <title lang="pt">RFM TV: The Best of Music</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210126140000 +0000" stop="20210126200000 +0000" channel="MCM POP">
+    <title lang="pt">RFM TV: The Best of Music</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210127160000 +0000" stop="20210128000000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210128200000 +0000" stop="20210129020000 +0000" channel="MCM POP">
+    <title lang="pt">RFM TV: The Best of Music</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210130000000 +0000" stop="20210130080000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+</tv>
