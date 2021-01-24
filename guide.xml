@@ -1,0 +1,1381 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CANAL 11 HD">
+    <display-name lang="pt">CANAL 11 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL 11">
+    <display-name lang="pt">CANAL 11</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORTV + FULL HD">
+    <display-name lang="pt">SPORTV + FULL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORTV +">
+    <display-name lang="pt">SPORTV +</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210124013000 +0000" stop="20210124033000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Benfica x Rio Ave</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124033000 +0000" stop="20210124040000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Magazine - 17ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124040000 +0000" stop="20210124055500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Clube Albergaria x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124055500 +0000" stop="20210124061500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S2E12</episode-num>
+  </programme>
+  <programme start="20210124061500 +0000" stop="20210124083000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - São Paulo x Coritiba</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124083000 +0000" stop="20210124093000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210124093000 +0000" stop="20210124110000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Belenenses x Dínamo Sanjoanense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124110000 +0000" stop="20210124130000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Lusitânia de Lourosa x Anadia - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124130000 +0000" stop="20210124150000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga Espanhola - Almería x CE Sabadell - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124150000 +0000" stop="20210124170000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Real SC x Rabo de Peixe - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124170000 +0000" stop="20210124190000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Olhanense x Amora</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124190000 +0000" stop="20210124210000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Ceará x Palmeiras - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124210000 +0000" stop="20210124230000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Ath. Paranaense x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124230000 +0000" stop="20210124234500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20210124234500 +0000" stop="20210125002500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">História de Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210125002500 +0000" stop="20210125022500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Mexicana - Toluca x Club Necaxa</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125022500 +0000" stop="20210125031000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20210125031000 +0000" stop="20210125050500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga Espanhola - Almería x CE Sabadell</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125050500 +0000" stop="20210125070000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Real SC x Rabo de Peixe</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125070000 +0000" stop="20210125074500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20210125074500 +0000" stop="20210125093500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Olhanense x Amora</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125093500 +0000" stop="20210125112500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Ceará x Palmeiras</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125112500 +0000" stop="20210125122000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210125122000 +0000" stop="20210125124000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210125124000 +0000" stop="20210125144000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Ath. Paranaense x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125144000 +0000" stop="20210125150000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210125150000 +0000" stop="20210125170000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Famalicão x Marítimo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125170000 +0000" stop="20210125190000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Casa Pia x Cova da Piedade - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125190000 +0000" stop="20210125194500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E25</episode-num>
+  </programme>
+  <programme start="20210125194500 +0000" stop="20210125200000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125200000 +0000" stop="20210125201500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125201500 +0000" stop="20210125203000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125203000 +0000" stop="20210125223000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Beira-Mar x Rec. Águeda - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125223000 +0000" stop="20210126003000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga Espanhola - Cartagena x Mirandés</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126003000 +0000" stop="20210126004500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126004500 +0000" stop="20210126010500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210126010500 +0000" stop="20210126012000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126012000 +0000" stop="20210126032000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Casa Pia x Cova da Piedade</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126032000 +0000" stop="20210126033500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E25</episode-num>
+  </programme>
+  <programme start="20210126033500 +0000" stop="20210126035000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126035000 +0000" stop="20210126040500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126040500 +0000" stop="20210126060500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga Espanhola - Cartagena x Mirandés</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126060500 +0000" stop="20210126062000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126062000 +0000" stop="20210126064500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210126064500 +0000" stop="20210126070000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126070000 +0000" stop="20210126090000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Beira-Mar x Rec. Águeda</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126090000 +0000" stop="20210126091500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210126091500 +0000" stop="20210126093000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126093000 +0000" stop="20210126113000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga Espanhola - Cartagena x Mirandés</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126113000 +0000" stop="20210126114500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126114500 +0000" stop="20210126120000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126120000 +0000" stop="20210126121500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126121500 +0000" stop="20210126123000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126123000 +0000" stop="20210126124500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210126124500 +0000" stop="20210126130000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126130000 +0000" stop="20210126150000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Beira-Mar x Rec. Águeda</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126150000 +0000" stop="20210126170000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Rio Ave x V. Guimarães - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126170000 +0000" stop="20210126173000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E26</episode-num>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126193000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - U. Leiria x Benfica Castelo Branco - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126193000 +0000" stop="20210126212500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Bundesliga 2 - Fortuna Düsseldorf x Hamburgo - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126212500 +0000" stop="20210126222500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Original 11</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20210126222500 +0000" stop="20210126224000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126224000 +0000" stop="20210126230000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126230000 +0000" stop="20210127010000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Palmeiras x Vasco da Gama - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127010000 +0000" stop="20210127011500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210127011500 +0000" stop="20210127030500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Rio Ave x V. Guimarães</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127030500 +0000" stop="20210127032000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127032000 +0000" stop="20210127052000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - U. Leiria x Benfica Castelo Branco</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127052000 +0000" stop="20210127071500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Bundesliga 2 - Fortuna Düsseldorf x Hamburgo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127071500 +0000" stop="20210127073000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210127073000 +0000" stop="20210127081000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">História de Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210127081000 +0000" stop="20210127083000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210127083000 +0000" stop="20210127084500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127084500 +0000" stop="20210127090000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127090000 +0000" stop="20210127110000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Palmeiras x Vasco da Gama</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127110000 +0000" stop="20210127130000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Leça FC x Marítimo B - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127130000 +0000" stop="20210127131500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127131500 +0000" stop="20210127133000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127133000 +0000" stop="20210127140000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210127140000 +0000" stop="20210127160000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Taça da Liga Feminina - Famalicão x Benfica - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127160000 +0000" stop="20210127161500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127161500 +0000" stop="20210127163000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127163000 +0000" stop="20210127164500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127164500 +0000" stop="20210127170000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127170000 +0000" stop="20210127190000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Benfica x Portimonense - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127190000 +0000" stop="20210127193000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210127193000 +0000" stop="20210127213000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Young Boys x FC Lausanne - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127213000 +0000" stop="20210127233000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Académica x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127233000 +0000" stop="20210128000000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128020000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128020000 +0000" stop="20210128021500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128021500 +0000" stop="20210128023500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210128023500 +0000" stop="20210128025000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128025000 +0000" stop="20210128045000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Leça FC x Marítimo B</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128045000 +0000" stop="20210128050500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128050500 +0000" stop="20210128070500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Taça da Liga Feminina - Famalicão x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128070500 +0000" stop="20210128073500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210128073500 +0000" stop="20210128075000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128075000 +0000" stop="20210128094500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128094500 +0000" stop="20210128114500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Académica x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128114500 +0000" stop="20210128120000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128120000 +0000" stop="20210128121500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128121500 +0000" stop="20210128141000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Benfica x Portimonense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128141000 +0000" stop="20210128142500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128142500 +0000" stop="20210128144000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128144000 +0000" stop="20210128150000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210128150000 +0000" stop="20210128170000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Estoril x Famalicão - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128170000 +0000" stop="20210128180000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210128180000 +0000" stop="20210128181500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128181500 +0000" stop="20210128183000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128183000 +0000" stop="20210128184500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210128184500 +0000" stop="20210128190000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128190000 +0000" stop="20210128191500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128191500 +0000" stop="20210128193000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128193000 +0000" stop="20210128213000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - Sion x FC Basel - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128213000 +0000" stop="20210128223000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Original 11</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20210128223000 +0000" stop="20210128230000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210128230000 +0000" stop="20210129010000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Grémio x Flamengo - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129010000 +0000" stop="20210129030000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Benfica x B SAD</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129030000 +0000" stop="20210129033000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129033000 +0000" stop="20210129052000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Estoril x Famalicão</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129052000 +0000" stop="20210129071000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Grémio x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129071000 +0000" stop="20210129074000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129074000 +0000" stop="20210129075500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129075500 +0000" stop="20210129081000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129081000 +0000" stop="20210129103500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Euro Futsal 2018 - Portugal x Espanha</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129103500 +0000" stop="20210129110000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20210129110000 +0000" stop="20210129130000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Marítimo x SC Braga - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129130000 +0000" stop="20210129150000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão - Grémio x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129150000 +0000" stop="20210129170000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - CF Estrela Amadora x Real SC - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129170000 +0000" stop="20210129173000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210129173000 +0000" stop="20210129193000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Bundesliga 2 - Greuther Fürth x Erzgebirge Aue - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129193000 +0000" stop="20210129201500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210129201500 +0000" stop="20210129214500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Futsal - Portugal x Polónia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129214500 +0000" stop="20210129223000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210129223000 +0000" stop="20210129232000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210129232000 +0000" stop="20210129233500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Futebol É Um Mundo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210129233500 +0000" stop="20210130000500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Futebol a Sério</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20210130000500 +0000" stop="20210130020000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Championship - Reading x Bournemouth</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130020000 +0000" stop="20210130023000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130023000 +0000" stop="20210130031500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210130031500 +0000" stop="20210130050500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Revelação - Marítimo x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130050500 +0000" stop="20210130070000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - CF Estrela Amadora x Real SC</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130070000 +0000" stop="20210130073000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Futebol a Sério</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20210130073000 +0000" stop="20210130074500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Futebol É Um Mundo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130074500 +0000" stop="20210130081000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130081000 +0000" stop="20210130100500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Gil Vicente x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130100500 +0000" stop="20210130105500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130105500 +0000" stop="20210130123000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Futsal - Portugal x Polónia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130123000 +0000" stop="20210130142500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Championship - Norwich x Middlesbrough - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130142500 +0000" stop="20210130144000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130144000 +0000" stop="20210130150000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130150000 +0000" stop="20210130170000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Maria da Fonte x Sp. Braga B - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130170000 +0000" stop="20210130190000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga - Oliveirense x Vizela - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130190000 +0000" stop="20210130193000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E30</episode-num>
+  </programme>
+  <programme start="20210130193000 +0000" stop="20210130194500 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130194500 +0000" stop="20210130200000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">O Futebol É Um Mundo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130200000 +0000" stop="20210130220000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Segunda Liga Espanhola - Almería x Castellón - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130220000 +0000" stop="20210131000000 +0000" channel="CANAL 11 HD">
+    <title lang="pt">Super Liga Suíça - St. Gallen x FC Zurich</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124013000 +0000" stop="20210124033000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Benfica x Rio Ave</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124033000 +0000" stop="20210124040000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Magazine - 17ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124040000 +0000" stop="20210124055500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Clube Albergaria x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124055500 +0000" stop="20210124061500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S2E12</episode-num>
+  </programme>
+  <programme start="20210124061500 +0000" stop="20210124083000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - São Paulo x Coritiba</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124083000 +0000" stop="20210124093000 +0000" channel="CANAL 11">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210124093000 +0000" stop="20210124110000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Belenenses x Dínamo Sanjoanense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124110000 +0000" stop="20210124130000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Lusitânia de Lourosa x Anadia - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124130000 +0000" stop="20210124150000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga Espanhola - Almería x CE Sabadell - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124150000 +0000" stop="20210124170000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Real SC x Rabo de Peixe - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124170000 +0000" stop="20210124190000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Olhanense x Amora</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124190000 +0000" stop="20210124210000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Ceará x Palmeiras - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124210000 +0000" stop="20210124230000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Ath. Paranaense x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124230000 +0000" stop="20210124234500 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20210124234500 +0000" stop="20210125002500 +0000" channel="CANAL 11">
+    <title lang="pt">História de Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210125002500 +0000" stop="20210125022500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Mexicana - Toluca x Club Necaxa</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125022500 +0000" stop="20210125031000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20210125031000 +0000" stop="20210125050500 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga Espanhola - Almería x CE Sabadell</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125050500 +0000" stop="20210125070000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Real SC x Rabo de Peixe</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125070000 +0000" stop="20210125074500 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20210125074500 +0000" stop="20210125093500 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Olhanense x Amora</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125093500 +0000" stop="20210125112500 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Ceará x Palmeiras</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125112500 +0000" stop="20210125122000 +0000" channel="CANAL 11">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210125122000 +0000" stop="20210125124000 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210125124000 +0000" stop="20210125144000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Ath. Paranaense x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125144000 +0000" stop="20210125150000 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210125150000 +0000" stop="20210125170000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Famalicão x Marítimo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125170000 +0000" stop="20210125190000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Casa Pia x Cova da Piedade - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125190000 +0000" stop="20210125194500 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E25</episode-num>
+  </programme>
+  <programme start="20210125194500 +0000" stop="20210125200000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125200000 +0000" stop="20210125201500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125201500 +0000" stop="20210125203000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125203000 +0000" stop="20210125223000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Beira-Mar x Rec. Águeda - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125223000 +0000" stop="20210126003000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga Espanhola - Cartagena x Mirandés</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126003000 +0000" stop="20210126004500 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126004500 +0000" stop="20210126010500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210126010500 +0000" stop="20210126012000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126012000 +0000" stop="20210126032000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Casa Pia x Cova da Piedade</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126032000 +0000" stop="20210126033500 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E25</episode-num>
+  </programme>
+  <programme start="20210126033500 +0000" stop="20210126035000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126035000 +0000" stop="20210126040500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126040500 +0000" stop="20210126060500 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga Espanhola - Cartagena x Mirandés</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126060500 +0000" stop="20210126062000 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126062000 +0000" stop="20210126064500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210126064500 +0000" stop="20210126070000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126070000 +0000" stop="20210126090000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Beira-Mar x Rec. Águeda</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126090000 +0000" stop="20210126091500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210126091500 +0000" stop="20210126093000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126093000 +0000" stop="20210126113000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga Espanhola - Cartagena x Mirandés</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126113000 +0000" stop="20210126114500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126114500 +0000" stop="20210126120000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126120000 +0000" stop="20210126121500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126121500 +0000" stop="20210126123000 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126123000 +0000" stop="20210126124500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210126124500 +0000" stop="20210126130000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126130000 +0000" stop="20210126150000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Beira-Mar x Rec. Águeda</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126150000 +0000" stop="20210126170000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Rio Ave x V. Guimarães - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126170000 +0000" stop="20210126173000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E26</episode-num>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126193000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - U. Leiria x Benfica Castelo Branco - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126193000 +0000" stop="20210126212500 +0000" channel="CANAL 11">
+    <title lang="pt">Bundesliga 2 - Fortuna Düsseldorf x Hamburgo - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126212500 +0000" stop="20210126222500 +0000" channel="CANAL 11">
+    <title lang="pt">Original 11</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20210126222500 +0000" stop="20210126224000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126224000 +0000" stop="20210126230000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126230000 +0000" stop="20210127010000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Palmeiras x Vasco da Gama - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127010000 +0000" stop="20210127011500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210127011500 +0000" stop="20210127030500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Rio Ave x V. Guimarães</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127030500 +0000" stop="20210127032000 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127032000 +0000" stop="20210127052000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - U. Leiria x Benfica Castelo Branco</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127052000 +0000" stop="20210127071500 +0000" channel="CANAL 11">
+    <title lang="pt">Bundesliga 2 - Fortuna Düsseldorf x Hamburgo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127071500 +0000" stop="20210127073000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210127073000 +0000" stop="20210127081000 +0000" channel="CANAL 11">
+    <title lang="pt">História de Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210127081000 +0000" stop="20210127083000 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210127083000 +0000" stop="20210127084500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127084500 +0000" stop="20210127090000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127090000 +0000" stop="20210127110000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Palmeiras x Vasco da Gama</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127110000 +0000" stop="20210127130000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Leça FC x Marítimo B - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127130000 +0000" stop="20210127131500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127131500 +0000" stop="20210127133000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127133000 +0000" stop="20210127140000 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210127140000 +0000" stop="20210127160000 +0000" channel="CANAL 11">
+    <title lang="pt">Taça da Liga Feminina - Famalicão x Benfica - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127160000 +0000" stop="20210127161500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Compacto da 3ª e 4ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127161500 +0000" stop="20210127163000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127163000 +0000" stop="20210127164500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127164500 +0000" stop="20210127170000 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127170000 +0000" stop="20210127190000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Benfica x Portimonense - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127190000 +0000" stop="20210127193000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210127193000 +0000" stop="20210127213000 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Young Boys x FC Lausanne - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127213000 +0000" stop="20210127233000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Académica x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127233000 +0000" stop="20210128000000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128020000 +0000" channel="CANAL 11">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128020000 +0000" stop="20210128021500 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128021500 +0000" stop="20210128023500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210128023500 +0000" stop="20210128025000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128025000 +0000" stop="20210128045000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Leça FC x Marítimo B</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128045000 +0000" stop="20210128050500 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128050500 +0000" stop="20210128070500 +0000" channel="CANAL 11">
+    <title lang="pt">Taça da Liga Feminina - Famalicão x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128070500 +0000" stop="20210128073500 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E27</episode-num>
+  </programme>
+  <programme start="20210128073500 +0000" stop="20210128075000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128075000 +0000" stop="20210128094500 +0000" channel="CANAL 11">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128094500 +0000" stop="20210128114500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Académica x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128114500 +0000" stop="20210128120000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128120000 +0000" stop="20210128121500 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128121500 +0000" stop="20210128141000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Benfica x Portimonense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128141000 +0000" stop="20210128142500 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Compacto da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128142500 +0000" stop="20210128144000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128144000 +0000" stop="20210128150000 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210128150000 +0000" stop="20210128170000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Estoril x Famalicão - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128170000 +0000" stop="20210128180000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210128180000 +0000" stop="20210128181500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128181500 +0000" stop="20210128183000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga de Futsal - Compacto da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128183000 +0000" stop="20210128184500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210128184500 +0000" stop="20210128190000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128190000 +0000" stop="20210128191500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128191500 +0000" stop="20210128193000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128193000 +0000" stop="20210128213000 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - Sion x FC Basel - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128213000 +0000" stop="20210128223000 +0000" channel="CANAL 11">
+    <title lang="pt">Original 11</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20210128223000 +0000" stop="20210128230000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210128230000 +0000" stop="20210129010000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Grémio x Flamengo - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129010000 +0000" stop="20210129030000 +0000" channel="CANAL 11">
+    <title lang="pt">Taça de Portugal 2020-21 - Benfica x B SAD</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129030000 +0000" stop="20210129033000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129033000 +0000" stop="20210129052000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Estoril x Famalicão</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129052000 +0000" stop="20210129071000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Grémio x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129071000 +0000" stop="20210129074000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129074000 +0000" stop="20210129075500 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129075500 +0000" stop="20210129081000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 13ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129081000 +0000" stop="20210129103500 +0000" channel="CANAL 11">
+    <title lang="pt">Euro Futsal 2018 - Portugal x Espanha</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129103500 +0000" stop="20210129110000 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20210129110000 +0000" stop="20210129130000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Marítimo x SC Braga - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129130000 +0000" stop="20210129150000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão - Grémio x Flamengo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129150000 +0000" stop="20210129170000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - CF Estrela Amadora x Real SC - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129170000 +0000" stop="20210129173000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210129173000 +0000" stop="20210129193000 +0000" channel="CANAL 11">
+    <title lang="pt">Bundesliga 2 - Greuther Fürth x Erzgebirge Aue - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129193000 +0000" stop="20210129201500 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210129201500 +0000" stop="20210129214500 +0000" channel="CANAL 11">
+    <title lang="pt">Futsal - Portugal x Polónia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129214500 +0000" stop="20210129223000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210129223000 +0000" stop="20210129232000 +0000" channel="CANAL 11">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210129232000 +0000" stop="20210129233500 +0000" channel="CANAL 11">
+    <title lang="pt">O Futebol É Um Mundo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210129233500 +0000" stop="20210130000500 +0000" channel="CANAL 11">
+    <title lang="pt">Futebol a Sério</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20210130000500 +0000" stop="20210130020000 +0000" channel="CANAL 11">
+    <title lang="pt">Championship - Reading x Bournemouth</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130020000 +0000" stop="20210130023000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130023000 +0000" stop="20210130031500 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E28</episode-num>
+  </programme>
+  <programme start="20210130031500 +0000" stop="20210130050500 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Revelação - Marítimo x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130050500 +0000" stop="20210130070000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - CF Estrela Amadora x Real SC</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130070000 +0000" stop="20210130073000 +0000" channel="CANAL 11">
+    <title lang="pt">Futebol a Sério</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20210130073000 +0000" stop="20210130074500 +0000" channel="CANAL 11">
+    <title lang="pt">O Futebol É Um Mundo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130074500 +0000" stop="20210130081000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Magazine - 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130081000 +0000" stop="20210130100500 +0000" channel="CANAL 11">
+    <title lang="pt">Taça de Portugal 2020-21 - Gil Vicente x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130100500 +0000" stop="20210130105500 +0000" channel="CANAL 11">
+    <title lang="pt">Sagrado Balneário</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130105500 +0000" stop="20210130123000 +0000" channel="CANAL 11">
+    <title lang="pt">Futsal - Portugal x Polónia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130123000 +0000" stop="20210130142500 +0000" channel="CANAL 11">
+    <title lang="pt">Championship - Norwich x Middlesbrough - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130142500 +0000" stop="20210130144000 +0000" channel="CANAL 11">
+    <title lang="pt">Brasileirão Série A - Compacto da 31ª e 32ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130144000 +0000" stop="20210130150000 +0000" channel="CANAL 11">
+    <title lang="pt">Liga Futebol Feminino - Compacto da 2ª Jornada - 2ª Fase</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130150000 +0000" stop="20210130170000 +0000" channel="CANAL 11">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Maria da Fonte x Sp. Braga B - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130170000 +0000" stop="20210130190000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga - Oliveirense x Vizela - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130190000 +0000" stop="20210130193000 +0000" channel="CANAL 11">
+    <title lang="pt">11 na Hora</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S3E30</episode-num>
+  </programme>
+  <programme start="20210130193000 +0000" stop="20210130194500 +0000" channel="CANAL 11">
+    <title lang="pt">O Meu Clube</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130194500 +0000" stop="20210130200000 +0000" channel="CANAL 11">
+    <title lang="pt">O Futebol É Um Mundo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210130200000 +0000" stop="20210130220000 +0000" channel="CANAL 11">
+    <title lang="pt">Segunda Liga Espanhola - Almería x Castellón - Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130220000 +0000" stop="20210131000000 +0000" channel="CANAL 11">
+    <title lang="pt">Super Liga Suíça - St. Gallen x FC Zurich</title>
+    <category lang="pt">desporto</category>
+  </programme>
+</tv>
