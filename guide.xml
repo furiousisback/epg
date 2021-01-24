@@ -1,0 +1,879 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SPORTV 1 FULL HD">
+    <display-name lang="pt">SPORTV 1 FULL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NOS STUDIOS HD">
+    <display-name lang="pt">NOS STUDIOS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210124003000 +0000" stop="20210124023000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Atalanta</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124023000 +0000" stop="20210124030000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 2º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124030000 +0000" stop="20210124060000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124060000 +0000" stop="20210124064500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124064500 +0000" stop="20210124083500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - AS Roma x Spezia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124083500 +0000" stop="20210124104000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124104000 +0000" stop="20210124111500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124111500 +0000" stop="20210124132000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Mafra x Estoril (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124132000 +0000" stop="20210124150000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Power Stage</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124150000 +0000" stop="20210124173000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124173000 +0000" stop="20210124194000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124194000 +0000" stop="20210124201500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124201500 +0000" stop="20210124223000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124223000 +0000" stop="20210125003000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125003000 +0000" stop="20210125010000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 3º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125010000 +0000" stop="20210125033000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NBA - Bucks x Hawks (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125033000 +0000" stop="20210125034000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Holandesa - Golos da 18ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125034000 +0000" stop="20210125041000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125041000 +0000" stop="20210125044000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125044000 +0000" stop="20210125063000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Campeonato Nacional de Voleibol - Castêlo da Maia x Benfica</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125063000 +0000" stop="20210125072000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Watersports World</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125072000 +0000" stop="20210125075000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">FIBA World Basketball</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125075000 +0000" stop="20210125100000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125100000 +0000" stop="20210125121000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125121000 +0000" stop="20210125142000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125142000 +0000" stop="20210125163000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - Juventus x Bolonha</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125163000 +0000" stop="20210125184000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125184000 +0000" stop="20210125191000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125191000 +0000" stop="20210125201500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Antevisão Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125201500 +0000" stop="20210125224500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125224500 +0000" stop="20210125232000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210125232000 +0000" stop="20210126013000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Wycombe Wanderers x Tottenham - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126013000 +0000" stop="20210126040000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NBA - Mavericks x Nuggets (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126040000 +0000" stop="20210126080000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126080000 +0000" stop="20210126101000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Belenenses SAD x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126101000 +0000" stop="20210126122000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126122000 +0000" stop="20210126125000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Benfica x Nacional</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126125000 +0000" stop="20210126131000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126131000 +0000" stop="20210126152000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Rio Ave x Santa Clara</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126152000 +0000" stop="20210126173000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126180000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126180000 +0000" stop="20210126200000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Rei - Valladolid x Levante - Oitavos-de-final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126200000 +0000" stop="20210126201000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126201000 +0000" stop="20210126203000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">A Magia da Bola</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126203000 +0000" stop="20210126211500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Antevisão Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126211500 +0000" stop="20210126234000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210126234000 +0000" stop="20210127013000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127013000 +0000" stop="20210127020000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127020000 +0000" stop="20210127041000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127041000 +0000" stop="20210127060000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Euroliga - FC Barcelona Lassa x BC Zenit</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127060000 +0000" stop="20210127082000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NHL - Hurricanes x Tampa Bay Lightning</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127082000 +0000" stop="20210127085000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Resumos da 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127085000 +0000" stop="20210127092000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127092000 +0000" stop="20210127095000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Superliga Turca - Resumo da 21ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127095000 +0000" stop="20210127120000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - SC Braga x Gil Vicente</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127120000 +0000" stop="20210127141000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Boavista x Sporting</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127141000 +0000" stop="20210127144000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Farense x FC Porto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127144000 +0000" stop="20210127164500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127164500 +0000" stop="20210127185000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Lazio x Parma - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127185000 +0000" stop="20210127190000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga-te à Fundação</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127190000 +0000" stop="20210127193000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Inter x AC Milan - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127193000 +0000" stop="20210127201500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Resumos da 15ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127201500 +0000" stop="20210127221000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210127221000 +0000" stop="20210128000000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Chelsea x Wolverhampton</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128003000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Juventus x SPAL - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128003000 +0000" stop="20210128030000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NBA - 7ers x LA Lakers (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128030000 +0000" stop="20210128050000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">EuroCup - Lokomotiv Kuban Krasnodar x Partizan NIS Belgrade</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128050000 +0000" stop="20210128063000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Hipismo - Taça Mundo Pegasus</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128063000 +0000" stop="20210128070000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">World of Freesports</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128070000 +0000" stop="20210128073000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Esqui - Taça do Mundo de Freestyle - Kreischberg, Áustria</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128073000 +0000" stop="20210128080000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Mundo de Esqui Alpino - Zgrebe, Croácia + Adelboden, Suíça + St. Anton , Áustria</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128080000 +0000" stop="20210128083000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Mundo de Snowboard - Kreischberg, Áustria + Scuol, Suíça</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128083000 +0000" stop="20210128103000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Lazio x Parma - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128103000 +0000" stop="20210128110000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128110000 +0000" stop="20210128130000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128130000 +0000" stop="20210128150000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Rei - Rayo Vallecano x Barcelona - Oitavos-de-final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128150000 +0000" stop="20210128170000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Rei - Sevilha x Valência - Oitavos-de-final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128170000 +0000" stop="20210128173000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Man. United x Sheffield United</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128173000 +0000" stop="20210128180000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Chelsea x Wolverhampton</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128180000 +0000" stop="20210128200000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Rei - Navalcarneo x Granada - Oitavos-de-final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128200000 +0000" stop="20210128203000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Juventus x SPAL - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128203000 +0000" stop="20210128211500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Antevisão (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128211500 +0000" stop="20210128231000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Benfica x Belenenses SAD - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128231000 +0000" stop="20210128234000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Magazine Liga NOS - Antevisão</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210128234000 +0000" stop="20210129013000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Tottenham x Liverpool</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129013000 +0000" stop="20210129020000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Benfica x Belenenses SAD - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129020000 +0000" stop="20210129023000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League World</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129023000 +0000" stop="20210129050000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NBA - Rockets x Blazers (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129050000 +0000" stop="20210129060000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Camp. Europa Escalada no Gelo - França 2021</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129060000 +0000" stop="20210129090000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Camp. Europa Escalada no Gelo - França 2021</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129090000 +0000" stop="20210129100000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129100000 +0000" stop="20210129115000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Rei - Alcoyano x Ath. Bilbao - Oitavos-de-final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129115000 +0000" stop="20210129135000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Benfica x Belenenses SAD - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129135000 +0000" stop="20210129155000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Marítimo x Estoril - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129155000 +0000" stop="20210129160000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Holandesa - Golos da 19ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129160000 +0000" stop="20210129180000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Superliga Turca - Gaziantep x Galatasaray (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129180000 +0000" stop="20210129183000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Magazine Liga NOS - Antevisão</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129183000 +0000" stop="20210129190000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Itália - Resumo dos Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129190000 +0000" stop="20210129193000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça do Rei - Resumo dos Oitavos-de-final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129193000 +0000" stop="20210129200000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Resumo da 20ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129200000 +0000" stop="20210129204500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Antevisão (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129204500 +0000" stop="20210129225000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Gil Vicente x FC Porto - Quartos-de-Final (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210129225000 +0000" stop="20210130010000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - SC Braga x Santa Clara - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130010000 +0000" stop="20210130033000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NBA - Thunder x Nets (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130033000 +0000" stop="20210130052000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Euroliga - PBC CSKA Moscovo x FC Bayern Basketball</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130052000 +0000" stop="20210130071000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">NHL - Washington Capitals x NY Islanders</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130071000 +0000" stop="20210130081000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Resumos e Reportagens</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130081000 +0000" stop="20210130100000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - SC Braga x Santa Clara - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130100000 +0000" stop="20210130103000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130103000 +0000" stop="20210130110000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Antevisão Chaves x Feirense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130110000 +0000" stop="20210130131000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Desp. Chaves x Feirense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130131000 +0000" stop="20210130153000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Portugal 2020-21 - Gil Vicente x FC Porto - Quartos-de-Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130153000 +0000" stop="20210130180000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Nacional x Famalicão (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130180000 +0000" stop="20210130203000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Tondela x Farense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130203000 +0000" stop="20210130224000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Portimonense x Boavista (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210130224000 +0000" stop="20210131003000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Premier League - Arsenal x Man. United</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124004000 +0000" stop="20210124020000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Medo Profundo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124020000 +0000" stop="20210124033500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Redenção</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124033500 +0000" stop="20210124054000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Léon, o Profissional</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124054000 +0000" stop="20210124072500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Já Sinto a Tua Falta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124072500 +0000" stop="20210124083500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Zarafa (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124083500 +0000" stop="20210124094500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Princesa e o Dragão (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124094500 +0000" stop="20210124113500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ouro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124113500 +0000" stop="20210124131500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Setembros de Shiraz</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124131500 +0000" stop="20210124143500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Inatividade Paranormal</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124143500 +0000" stop="20210124155500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Inatividade Paranormal 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124155500 +0000" stop="20210124174000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Red 2 - Ainda Mais Perigosos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124174000 +0000" stop="20210124194500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Os Sete Magníficos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124194500 +0000" stop="20210124211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ninja 2 - A Vingança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124211500 +0000" stop="20210124225000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Correio de Alto Risco</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124225000 +0000" stop="20210125002000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Shut In - Reféns Do Medo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125002000 +0000" stop="20210125022000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Paixão de Cristo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125022000 +0000" stop="20210125041500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Dos Homens Sem Lei</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125041500 +0000" stop="20210125054000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Na Mira do Assassino</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125054000 +0000" stop="20210125073500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Para Além das Cinzas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125073500 +0000" stop="20210125092500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Promessa de Uma Vida</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125092500 +0000" stop="20210125104500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Família Addams (2019) (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125104500 +0000" stop="20210125121000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Árvore dos Desejos (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125121000 +0000" stop="20210125141000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Laços de Sangue</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125141000 +0000" stop="20210125153500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">88 - Vingança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125153500 +0000" stop="20210125173500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Jobs</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125173500 +0000" stop="20210125192000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">O Último Reduto 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125192000 +0000" stop="20210125211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">O Sobrevivente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125211500 +0000" stop="20210125225500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Indetectável</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210125225500 +0000" stop="20210126003500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Homefront - A Última Defesa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126003500 +0000" stop="20210126020500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Transgressão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126020500 +0000" stop="20210126040000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Verdade</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126040000 +0000" stop="20210126055000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">O Jogo da Imitação</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126055000 +0000" stop="20210126074000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Amigos Improváveis</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126074000 +0000" stop="20210126085500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Princesa e o Dragão (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126085500 +0000" stop="20210126101000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Ilha do Halloween (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126101000 +0000" stop="20210126122000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Snowden</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126122000 +0000" stop="20210126140500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Sei Lá</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126140500 +0000" stop="20210126154000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Perto de Mim</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126154000 +0000" stop="20210126173000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Skin, História Proibida</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126191000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Danny Collins - Nunca é Tarde</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126191000 +0000" stop="20210126211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Miss Sloane - Uma Mulher de Armas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126211500 +0000" stop="20210126225000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Emboscada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210126225000 +0000" stop="20210127002000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Operação Eye In The Sky</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127002000 +0000" stop="20210127014500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Cidade Infernal</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127014500 +0000" stop="20210127032000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Bel Ami</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127032000 +0000" stop="20210127044500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">O Idiota do Nosso Irmão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127044500 +0000" stop="20210127062000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Um Avô Muito à Frente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127062000 +0000" stop="20210127074500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Sem Provas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127074500 +0000" stop="20210127091000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Árvore dos Desejos (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127091000 +0000" stop="20210127102500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ernest &amp; Celestine (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127102500 +0000" stop="20210127124500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Millennium 3: Rainha no Palácio das Correntes de Ar</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127124500 +0000" stop="20210127142500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Machete Mata</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127142500 +0000" stop="20210127155500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Blunt Force - Jogo Sangrento</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127155500 +0000" stop="20210127180500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Jogo da Alta-Roda</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127180500 +0000" stop="20210127193000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Entre Irmãs</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127193000 +0000" stop="20210127211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Diana</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127211500 +0000" stop="20210127230000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ousadas e Golpistas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210127230000 +0000" stop="20210128010000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Os Gatos Não Têm Vertigens</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128010000 +0000" stop="20210128024000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ruas de Sangue</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128024000 +0000" stop="20210128041000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">The Hunter</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128041000 +0000" stop="20210128055000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Encruzilhadas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128055000 +0000" stop="20210128075000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Nómada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128075000 +0000" stop="20210128091000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Ilha do Halloween (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128091000 +0000" stop="20210128103000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Lenda do Rei Salomão (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128103000 +0000" stop="20210128123000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Infiltrado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128123000 +0000" stop="20210128142500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Uma História De Amor</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128142500 +0000" stop="20210128160000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Star Crossed: Amor em Jogo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128160000 +0000" stop="20210128173000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Horas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128173000 +0000" stop="20210128192500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Um Ano Muito Violento</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128192500 +0000" stop="20210128211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Viagem dos Cem Passos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128211500 +0000" stop="20210128225500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Arte da Autodefesa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210128225500 +0000" stop="20210129002500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Transporter: Potência Máxima</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129002500 +0000" stop="20210129021000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Uma Boa Dose de Sexo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129021000 +0000" stop="20210129034000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Hércules - A Lenda Começa</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129034000 +0000" stop="20210129051000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A-X-L: Uma Amizade Extraordinária</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129051000 +0000" stop="20210129070500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Criaturas Maravilhosas</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129070500 +0000" stop="20210129082500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ibiza</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129082500 +0000" stop="20210129094000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ernest &amp; Celestine (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129094000 +0000" stop="20210129110000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Carteiro Paulo - O Filme (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129110000 +0000" stop="20210129122000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Aqui Há Gato! (VO)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129122000 +0000" stop="20210129142000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">O que as Mulheres Querem</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129142000 +0000" stop="20210129155500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Academia de Vampiros</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129155500 +0000" stop="20210129174000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Matem o Mensageiro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129174000 +0000" stop="20210129193000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Pela Borda Fora</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129193000 +0000" stop="20210129211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Canção de Lisboa (2015)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129211500 +0000" stop="20210129230000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Malavita (2013)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210129230000 +0000" stop="20210130004000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Guerra, S.A</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130004000 +0000" stop="20210130021000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Lovelace</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130021000 +0000" stop="20210130033500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Medo Profundo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130033500 +0000" stop="20210130053500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Kiss Me</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130053500 +0000" stop="20210130074500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Os Sete Magníficos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130074500 +0000" stop="20210130090500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Carteiro Paulo - O Filme (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130090500 +0000" stop="20210130102500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Lenda do Rei Salomão (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130102500 +0000" stop="20210130115000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">O Super Coala (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130115000 +0000" stop="20210130133000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Morangos Com Açúcar - O Filme</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130133000 +0000" stop="20210130150500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Iguais</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130150500 +0000" stop="20210130164500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Agora Fico Bem</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130164500 +0000" stop="20210130182500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Mulher de Ouro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130182500 +0000" stop="20210130211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">O Lobo de Wall Street</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130211500 +0000" stop="20210130230000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Um Passado em Segredo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210130230000 +0000" stop="20210131003500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Hell or High Water - Custe o Que Custar</title>
+    <category lang="pt">filmes</category>
+  </programme>
+</tv>
