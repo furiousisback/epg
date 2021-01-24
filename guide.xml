@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SPORTV 1 FULL HD">
+    <display-name lang="pt">SPORTV 1 FULL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NOS STUDIOS HD">
+    <display-name lang="pt">NOS STUDIOS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210124003000 +0000" stop="20210124023000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Atalanta</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124023000 +0000" stop="20210124030000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Resumo 2º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124030000 +0000" stop="20210124060000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124060000 +0000" stop="20210124064500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">UFC 257 - Poirier x McGregor (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124064500 +0000" stop="20210124083500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga Italiana 2020-21 - AS Roma x Spezia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124083500 +0000" stop="20210124104000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça da Liga - Final - Sporting x SC Braga</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124104000 +0000" stop="20210124111500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124111500 +0000" stop="20210124132000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Segunda Liga - Mafra x Estoril (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124132000 +0000" stop="20210124150000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">WRC - Rali de Monte Carlo - Power Stage</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124150000 +0000" stop="20210124173000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Marítimo x P. Ferreira (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124173000 +0000" stop="20210124194000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Moreirense x Portimonense (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124194000 +0000" stop="20210124201500 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124201500 +0000" stop="20210124223000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Liga NOS - Famalicão x V. Guimarães (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124223000 +0000" stop="20210125003000 +0000" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Taça de Inglaterra - Man. United x Liverpool - 4ª Eliminatória</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210124004000 +0000" stop="20210124020000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Medo Profundo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124020000 +0000" stop="20210124033500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Redenção</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124033500 +0000" stop="20210124054000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Léon, o Profissional</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124054000 +0000" stop="20210124072500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Já Sinto a Tua Falta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124072500 +0000" stop="20210124083500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Zarafa (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124083500 +0000" stop="20210124094500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">A Princesa e o Dragão (VP)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124094500 +0000" stop="20210124113500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ouro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124113500 +0000" stop="20210124131500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Setembros de Shiraz</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124131500 +0000" stop="20210124143500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Inatividade Paranormal</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124143500 +0000" stop="20210124155500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Inatividade Paranormal 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124155500 +0000" stop="20210124174000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Red 2 - Ainda Mais Perigosos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124174000 +0000" stop="20210124194500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Os Sete Magníficos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124194500 +0000" stop="20210124211500 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Ninja 2 - A Vingança</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124211500 +0000" stop="20210124225000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Correio de Alto Risco</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20210124225000 +0000" stop="20210125002000 +0000" channel="NOS STUDIOS HD">
+    <title lang="pt">Shut In - Reféns Do Medo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+</tv>
