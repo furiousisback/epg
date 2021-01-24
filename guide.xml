@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CUBAVISION">
+    <display-name lang="pt">CUBAVISION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cubavision.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20210124000000 +0000" stop="20210124040000 +0000" channel="CUBAVISION">
+    <title lang="pt">CUBAVISION</title>
+    <desc lang="pt">CUBAVISION.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14932937/M" />
+  </programme>
+  <programme start="20210124040000 +0000" stop="20210124080000 +0000" channel="CUBAVISION">
+    <title lang="pt">CUBAVISION</title>
+    <desc lang="pt">CUBAVISION.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14932937/M" />
+  </programme>
+  <programme start="20210124080000 +0000" stop="20210124120000 +0000" channel="CUBAVISION">
+    <title lang="pt">CUBAVISION</title>
+    <desc lang="pt">CUBAVISION.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14932937/M" />
+  </programme>
+  <programme start="20210124120000 +0000" stop="20210124160000 +0000" channel="CUBAVISION">
+    <title lang="pt">CUBAVISION</title>
+    <desc lang="pt">CUBAVISION.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14932937/M" />
+  </programme>
+  <programme start="20210124160000 +0000" stop="20210124200000 +0000" channel="CUBAVISION">
+    <title lang="pt">CUBAVISION</title>
+    <desc lang="pt">CUBAVISION.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14932937/M" />
+  </programme>
+  <programme start="20210124200000 +0000" stop="20210125000000 +0000" channel="CUBAVISION">
+    <title lang="pt">CUBAVISION</title>
+    <desc lang="pt">CUBAVISION.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14932937/M" />
+  </programme>
+</tv>
