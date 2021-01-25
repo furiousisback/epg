@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/93/" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <programme start="20210125040000 +0000" stop="20210125050000 +0000" channel="MCM POP">
+    <title lang="pt">Le Premier Reveil</title>
+    <sub-title lang="pt">seg 25-jan, 04:00</sub-title>
+    <desc lang="pt">Le Premier Reveil.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362030/4_3/684/513" />
+  </programme>
+  <programme start="20210125050000 +0000" stop="20210125080000 +0000" channel="MCM POP">
+    <title lang="pt">Le Meilleur des Reveils</title>
+    <sub-title lang="pt">seg 25-jan, 05:00</sub-title>
+    <desc lang="pt">Le Meilleur des Reveils.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362031/4_3/684/513" />
+  </programme>
+  <programme start="20210125080000 +0000" stop="20210125120000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">seg 25-jan, 08:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362032/4_3/684/513" />
+  </programme>
+  <programme start="20210125120000 +0000" stop="20210125160000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">seg 25-jan, 12:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362033/4_3/684/513" />
+  </programme>
+  <programme start="20210125160000 +0000" stop="20210125200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">seg 25-jan, 16:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362034/4_3/684/513" />
+  </programme>
+  <programme start="20210125200000 +0000" stop="20210125230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">seg 25-jan, 20:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362035/4_3/684/513" />
+  </programme>
+  <programme start="20210125230000 +0000" stop="20210126040000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">seg 25-jan, 23:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362043/4_3/684/513" />
+  </programme>
+  <programme start="20210126040000 +0000" stop="20210126050000 +0000" channel="MCM POP">
+    <title lang="pt">Le Premier Reveil</title>
+    <sub-title lang="pt">ter 26-jan, 04:00</sub-title>
+    <desc lang="pt">Le Premier Reveil.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362037/4_3/684/513" />
+  </programme>
+  <programme start="20210126050000 +0000" stop="20210126080000 +0000" channel="MCM POP">
+    <title lang="pt">Le Meilleur des Reveils</title>
+    <sub-title lang="pt">ter 26-jan, 05:00</sub-title>
+    <desc lang="pt">Le Meilleur des Reveils.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362038/4_3/684/513" />
+  </programme>
+  <programme start="20210126080000 +0000" stop="20210126120000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">ter 26-jan, 08:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362039/4_3/684/513" />
+  </programme>
+  <programme start="20210126120000 +0000" stop="20210126160000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">ter 26-jan, 12:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362040/4_3/684/513" />
+  </programme>
+  <programme start="20210126160000 +0000" stop="20210126200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">ter 26-jan, 16:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362041/4_3/684/513" />
+  </programme>
+  <programme start="20210126200000 +0000" stop="20210126230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">ter 26-jan, 20:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362042/4_3/684/513" />
+  </programme>
+  <programme start="20210126230000 +0000" stop="20210127040000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">ter 26-jan, 23:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362050/4_3/684/513" />
+  </programme>
+  <programme start="20210127040000 +0000" stop="20210127050000 +0000" channel="MCM POP">
+    <title lang="pt">Le Premier Reveil</title>
+    <sub-title lang="pt">qua 27-jan, 04:00</sub-title>
+    <desc lang="pt">Le Premier Reveil.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362044/4_3/684/513" />
+  </programme>
+  <programme start="20210127050000 +0000" stop="20210127080000 +0000" channel="MCM POP">
+    <title lang="pt">Le Meilleur des Reveils</title>
+    <sub-title lang="pt">qua 27-jan, 05:00</sub-title>
+    <desc lang="pt">Le Meilleur des Reveils.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362045/4_3/684/513" />
+  </programme>
+  <programme start="20210127080000 +0000" stop="20210127120000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qua 27-jan, 08:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362046/4_3/684/513" />
+  </programme>
+  <programme start="20210127120000 +0000" stop="20210127160000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qua 27-jan, 12:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362047/4_3/684/513" />
+  </programme>
+  <programme start="20210127160000 +0000" stop="20210127200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qua 27-jan, 16:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362048/4_3/684/513" />
+  </programme>
+  <programme start="20210127200000 +0000" stop="20210127230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qua 27-jan, 20:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362049/4_3/684/513" />
+  </programme>
+  <programme start="20210127230000 +0000" stop="20210128040000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qua 27-jan, 23:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362057/4_3/684/513" />
+  </programme>
+  <programme start="20210128040000 +0000" stop="20210128050000 +0000" channel="MCM POP">
+    <title lang="pt">Le Premier Reveil</title>
+    <sub-title lang="pt">qui 28-jan, 04:00</sub-title>
+    <desc lang="pt">Le Premier Reveil.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362051/4_3/684/513" />
+  </programme>
+  <programme start="20210128050000 +0000" stop="20210128080000 +0000" channel="MCM POP">
+    <title lang="pt">Le Meilleur des Reveils</title>
+    <sub-title lang="pt">qui 28-jan, 05:00</sub-title>
+    <desc lang="pt">Le Meilleur des Reveils.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362052/4_3/684/513" />
+  </programme>
+  <programme start="20210128080000 +0000" stop="20210128120000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qui 28-jan, 08:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362053/4_3/684/513" />
+  </programme>
+  <programme start="20210128120000 +0000" stop="20210128160000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qui 28-jan, 12:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362054/4_3/684/513" />
+  </programme>
+  <programme start="20210128160000 +0000" stop="20210128200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qui 28-jan, 16:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362055/4_3/684/513" />
+  </programme>
+  <programme start="20210128200000 +0000" stop="20210128230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qui 28-jan, 20:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362056/4_3/684/513" />
+  </programme>
+  <programme start="20210128230000 +0000" stop="20210129040000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">qui 28-jan, 23:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362064/4_3/684/513" />
+  </programme>
+  <programme start="20210129040000 +0000" stop="20210129050000 +0000" channel="MCM POP">
+    <title lang="pt">Le Premier Reveil</title>
+    <sub-title lang="pt">sex 29-jan, 04:00</sub-title>
+    <desc lang="pt">Le Premier Reveil.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362058/4_3/684/513" />
+  </programme>
+  <programme start="20210129050000 +0000" stop="20210129080000 +0000" channel="MCM POP">
+    <title lang="pt">Le Meilleur des Reveils</title>
+    <sub-title lang="pt">sex 29-jan, 05:00</sub-title>
+    <desc lang="pt">Le Meilleur des Reveils.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362059/4_3/684/513" />
+  </programme>
+  <programme start="20210129080000 +0000" stop="20210129120000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sex 29-jan, 08:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362060/4_3/684/513" />
+  </programme>
+  <programme start="20210129120000 +0000" stop="20210129160000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sex 29-jan, 12:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362061/4_3/684/513" />
+  </programme>
+  <programme start="20210129160000 +0000" stop="20210129200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sex 29-jan, 16:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362062/4_3/684/513" />
+  </programme>
+  <programme start="20210129200000 +0000" stop="20210129230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sex 29-jan, 20:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362063/4_3/684/513" />
+  </programme>
+  <programme start="20210129230000 +0000" stop="20210130040000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sex 29-jan, 23:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362071/4_3/684/513" />
+  </programme>
+  <programme start="20210130040000 +0000" stop="20210130050000 +0000" channel="MCM POP">
+    <title lang="pt">Le Premier Reveil</title>
+    <sub-title lang="pt">sáb 30-jan, 04:00</sub-title>
+    <desc lang="pt">Le Premier Reveil.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362065/4_3/684/513" />
+  </programme>
+  <programme start="20210130050000 +0000" stop="20210130080000 +0000" channel="MCM POP">
+    <title lang="pt">Le Meilleur des Reveils</title>
+    <sub-title lang="pt">sáb 30-jan, 05:00</sub-title>
+    <desc lang="pt">Le Meilleur des Reveils.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362066/4_3/684/513" />
+  </programme>
+  <programme start="20210130080000 +0000" stop="20210130120000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sáb 30-jan, 08:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362067/4_3/684/513" />
+  </programme>
+  <programme start="20210130120000 +0000" stop="20210130160000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sáb 30-jan, 12:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362068/4_3/684/513" />
+  </programme>
+  <programme start="20210130160000 +0000" stop="20210130200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sáb 30-jan, 16:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362069/4_3/684/513" />
+  </programme>
+  <programme start="20210130200000 +0000" stop="20210130230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sáb 30-jan, 20:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362070/4_3/684/513" />
+  </programme>
+  <programme start="20210130230000 +0000" stop="20210131040000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+    <sub-title lang="pt">sáb 30-jan, 23:00</sub-title>
+    <desc lang="pt">Pop List.(n)</desc>
+    <category lang="pt">Música</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/93_462362078/4_3/684/513" />
+  </programme>
+</tv>
