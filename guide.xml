@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PT: Eleven Sports 1 HD">
+    <display-name lang="pt">PT: Eleven Sports 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: Eleven Sports 2 HD">
+    <display-name lang="pt">PT: Eleven Sports 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: Eleven Sports 3 HD">
+    <display-name lang="pt">PT: Eleven Sports 3 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: Eleven Sports 4 HD">
+    <display-name lang="pt">PT: Eleven Sports 4 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: Eleven Sports 5 HD">
+    <display-name lang="pt">PT: Eleven Sports 5 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: Eleven Sports 6 HD">
+    <display-name lang="pt">PT: Eleven Sports 6 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210404020000 +0100" stop="20210404030000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga Talking Football</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210404030000 +0100" stop="20210404050000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga - B. Dortmund x E. Frankfurt</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404050000 +0100" stop="20210404060000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20210404060000 +0100" stop="20210404070000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20210404070000 +0100" stop="20210404073000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions League Extra</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210404073000 +0100" stop="20210404083000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UEFA Champions League - Um Ano de Covid-19</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210404083000 +0100" stop="20210404091500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Documentário: 24/7 FC</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210404091500 +0100" stop="20210404101500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UCL - Archive Documentary Series</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210404101500 +0100" stop="20210404121500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga - RB Leipzig x B. Munique</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404121500 +0100" stop="20210404130000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga World</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20210404130000 +0100" stop="20210404151500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga - Alavés x Celta (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404151500 +0100" stop="20210404173000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga - Elche x Bétis (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404173000 +0100" stop="20210404193000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga - Cádiz x Valência (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404193000 +0100" stop="20210404200000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga Zap</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210404200000 +0100" stop="20210404220000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga - Sevilha x At. Madrid (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404220000 +0100" stop="20210404230000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UEFA Champions League - Um Ano de Covid-19</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210404230000 +0100" stop="20210404233000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20210404233000 +0100" stop="20210405000000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga World</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20210404013000 +0100" stop="20210404033000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">La Liga - Granada x Villarreal</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404033000 +0100" stop="20210404043000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">UEFA Champions League - Um Ano de Covid-19</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210404043000 +0100" stop="20210404050000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">UEFA Champions League Magazine</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20210404050000 +0100" stop="20210404070000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Ligue 1 2020-21 - Lyon x PSG</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404070000 +0100" stop="20210404090000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">La Liga - Real Sociedad x Barcelona</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404090000 +0100" stop="20210404100000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">F2: Tackling Europe</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210404100000 +0100" stop="20210404110000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Leeds United - Take Us Home</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210404110000 +0100" stop="20210404120000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Leeds United - Take Us Home</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20210404120000 +0100" stop="20210404123000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">La Liga Zap</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210404123000 +0100" stop="20210404143000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Jupiler Pro League - Cercle Brugge x Beerschot (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404143000 +0100" stop="20210404163000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Bundesliga - Estugarda x W. Bremen (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404163000 +0100" stop="20210404170000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">La Liga Zap</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210404170000 +0100" stop="20210404190000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Bundesliga - Union Berlin x Hertha (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404190000 +0100" stop="20210404193000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Bundesliga Special Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20210404193000 +0100" stop="20210404200000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20210404200000 +0100" stop="20210404220000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">Ligue 1 2020-21 - Marseille x Dijon (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404220000 +0100" stop="20210405000000 +0100" channel="PT: Eleven Sports 2 HD">
+    <title lang="pt">La Liga - Alavés x Celta</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404010000 +0100" stop="20210404020000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Fórmula E 2021 - E-Prix Diriyah2</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404020000 +0100" stop="20210404023000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Fora de Estrada</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210404023000 +0100" stop="20210404050000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404050000 +0100" stop="20210404100000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404100000 +0100" stop="20210404104500 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">GT World Challenge America</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210404104500 +0100" stop="20210404113000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Fora de Estrada</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210404113000 +0100" stop="20210404133000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Liga ACB - BC Andorra x Saski Baskonia (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404133000 +0100" stop="20210404140000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Fórmula 1 2021 - Os Melhores Team Radios</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210404140000 +0100" stop="20210404160000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Ligue 1 2020-21 - Reims x Rennes (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404160000 +0100" stop="20210404173000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Fórmula 2 2021 - GP Bahrain - Corrida 2</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404173000 +0100" stop="20210404193000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Liga ACB - San Pablo Burgos x Barcelona Lassa (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404193000 +0100" stop="20210404213000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">Fórmula 1 2021 - GP Bahrain - Resumo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404213000 +0100" stop="20210404234500 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">NASCAR Cup Series - Food City Dirt Race - Resumo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404234500 +0100" stop="20210405003000 +0100" channel="PT: Eleven Sports 3 HD">
+    <title lang="pt">GT World Challenge America</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210404050000 +0100" stop="20210404131500 +0100" channel="PT: Eleven Sports 4 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404131500 +0100" stop="20210404140000 +0100" channel="PT: Eleven Sports 4 HD">
+    <title lang="pt">Copa 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20210404140000 +0100" stop="20210404160000 +0100" channel="PT: Eleven Sports 4 HD">
+    <title lang="pt">Ligue 1 2020-21 - Nantes x Nice (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404160000 +0100" stop="20210404220000 +0100" channel="PT: Eleven Sports 4 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404220000 +0100" stop="20210405040000 +0100" channel="PT: Eleven Sports 4 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404050000 +0100" stop="20210404143000 +0100" channel="PT: Eleven Sports 5 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404143000 +0100" stop="20210404150000 +0100" channel="PT: Eleven Sports 5 HD">
+    <title lang="pt">La Liga Zap</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210404150000 +0100" stop="20210404170000 +0100" channel="PT: Eleven Sports 5 HD">
+    <title lang="pt">Segunda Liga Espanhola - Albacete x Espanyol (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210404170000 +0100" stop="20210405050000 +0100" channel="PT: Eleven Sports 5 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404050000 +0100" stop="20210404110000 +0100" channel="PT: Eleven Sports 6 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404110000 +0100" stop="20210404170000 +0100" channel="PT: Eleven Sports 6 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404170000 +0100" stop="20210404230000 +0100" channel="PT: Eleven Sports 6 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210404230000 +0100" stop="20210405050000 +0100" channel="PT: Eleven Sports 6 HD">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+</tv>
