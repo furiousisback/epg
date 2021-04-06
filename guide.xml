@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PT: Eleven Sports 1 HD">
+    <display-name lang="pt">PT: Eleven Sports 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210406001500 +0100" stop="20210406004500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">PFL - Inside The Season</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20210406004500 +0100" stop="20210406014500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga - Resumos da Jornada</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E27</episode-num>
+  </programme>
+  <programme start="20210406014500 +0100" stop="20210406024500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga - Resumos da Jornada</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20210406024500 +0100" stop="20210406034500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Ligue 1 - Resumos da Jornada</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E31</episode-num>
+  </programme>
+  <programme start="20210406034500 +0100" stop="20210406044500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga - Resumos da Jornada</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E27</episode-num>
+  </programme>
+  <programme start="20210406044500 +0100" stop="20210406050000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210406050000 +0100" stop="20210406070000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions League - Man. City x Borussia M</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210406070000 +0100" stop="20210406081500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20210406081500 +0100" stop="20210406091500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UEFA Champions League - Um Ano de Covid-19</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210406091500 +0100" stop="20210406093000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20210406093000 +0100" stop="20210406094500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga Zap</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210406094500 +0100" stop="20210406110000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20210406110000 +0100" stop="20210406113000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20210406113000 +0100" stop="20210406114500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20210406114500 +0100" stop="20210406120000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga Zap</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20210406120000 +0100" stop="20210406130000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UEFA Champions League - Um Ano de Covid-19</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210406130000 +0100" stop="20210406141500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20210406141500 +0100" stop="20210406161500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions League - Liverpool x RB Leipzig</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210406161500 +0100" stop="20210406164500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UEFA Champions League Magazine</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20210406164500 +0100" stop="20210406180000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20210406180000 +0100" stop="20210406190000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">La Liga - Resumos da Jornada</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20210406190000 +0100" stop="20210406191500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20210406191500 +0100" stop="20210406200000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions Eleven (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210406200000 +0100" stop="20210406220000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions League - Real Madrid x Liverpool (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210406220000 +0100" stop="20210406224500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">Champions Eleven (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20210406224500 +0100" stop="20210406234500 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">El Clásico: O Filme</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20210406234500 +0100" stop="20210407000000 +0100" channel="PT: Eleven Sports 1 HD">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+</tv>
