@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Eleven Sports 1 HD">
+    <display-name lang="pt">Eleven Sports 1 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/521/" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <programme start="20210406004500 +0000" stop="20210406014500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">LaLiga - Resumos da Jornada</title>
+    <sub-title lang="pt">RD 29</sub-title>
+    <desc lang="pt">Os resumos e os melhores momentos da última jornada do campeonato LaLiga.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703845/4_3/684/513" />
+    <episode-num system="onscreen">Ep29</episode-num>
+  </programme>
+  <programme start="20210406014500 +0000" stop="20210406024500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Ligue 1 Highlights</title>
+    <sub-title lang="pt">RD 31</sub-title>
+    <desc lang="pt">Os resumos e os melhores momentos da última jornada da Ligue 1.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703846/4_3/684/513" />
+    <episode-num system="onscreen">Ep31</episode-num>
+  </programme>
+  <programme start="20210406024500 +0000" stop="20210406034500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga - Resumos da Jornada</title>
+    <sub-title lang="pt">RD 27</sub-title>
+    <desc lang="pt">Os resumos e os melhores momentos da última jornada da Bundesliga.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703844/4_3/684/513" />
+    <episode-num system="onscreen">Ep27</episode-num>
+  </programme>
+  <programme start="20210406034500 +0000" stop="20210406040000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+    <sub-title lang="pt">Portugal</sub-title>
+    <desc lang="pt">Conheça as ideias e influências que marcam o estilo de jogo dos clubes portugueses.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121610364/4_3/684/513" />
+    <episode-num system="onscreen">Ep4</episode-num>
+  </programme>
+  <programme start="20210406040000 +0000" stop="20210406060000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Man. City x M'Gladbach: Champions League</title>
+    <sub-title lang="pt">Man. City x M'Gladbach</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Man. City x M'Gladbach.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_124074565/4_3/684/513" />
+  </programme>
+  <programme start="20210406060000 +0000" stop="20210406071500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <desc lang="pt">Acompanhe mais uma edição do Planeta Eleven programa de antevisão aos jogos deste fim de semana.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703837/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep34</episode-num>
+  </programme>
+  <programme start="20210406071500 +0000" stop="20210406081500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Documentário</title>
+    <sub-title lang="pt">Um Ano de Covid-19</sub-title>
+    <desc lang="pt">Este documentário mostra o ano mais desafiante da história da UEFA através das histórias contadas pelos seus colaboradores, demonstrando os problemas que enfrentaram na organização dos jogos nos últimos meses.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121696228/4_3/684/513" />
+    <episode-num system="onscreen">Ep1</episode-num>
+  </programme>
+  <programme start="20210406081500 +0000" stop="20210406083000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+    <desc lang="pt">Veja a edição especial de reportagens sobre os clubes, jogadores e todos os protagonistas do campeonato alemão de futebol.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703842/4_3/684/513" />
+    <episode-num system="onscreen">Ep7</episode-num>
+  </programme>
+  <programme start="20210406083000 +0000" stop="20210406084500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">LaLiga Zap</title>
+    <desc lang="pt">Um programa que lhe mostra os melhores momentos, comentários, erros de gravação, situações engraçadas e entrevistas originais da La Liga.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121236652/4_3/684/513" />
+    <episode-num system="onscreen">Ep13</episode-num>
+  </programme>
+  <programme start="20210406084500 +0000" stop="20210406100000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <desc lang="pt">Acompanhe mais uma edição do Planeta Eleven programa de antevisão aos jogos deste fim de semana.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703837/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep34</episode-num>
+  </programme>
+  <programme start="20210406100000 +0000" stop="20210406103000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special Report - O Melhor do Mês</title>
+    <sub-title lang="pt">O Melhor do Mês de Março</sub-title>
+    <desc lang="pt">Os golos e as melhores jogadas do último mês no principal escalão do futebol alemão.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121696237/4_3/684/513" />
+    <episode-num system="onscreen">Ep15</episode-num>
+  </programme>
+  <programme start="20210406103000 +0000" stop="20210406104500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+    <desc lang="pt">Veja a edição especial de reportagens sobre os clubes, jogadores e todos os protagonistas do campeonato alemão de futebol.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703842/4_3/684/513" />
+    <episode-num system="onscreen">Ep7</episode-num>
+  </programme>
+  <programme start="20210406104500 +0000" stop="20210406110000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">LaLiga Zap</title>
+    <desc lang="pt">Um programa que lhe mostra os melhores momentos, comentários, erros de gravação, situações engraçadas e entrevistas originais da La Liga.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121236652/4_3/684/513" />
+    <episode-num system="onscreen">Ep13</episode-num>
+  </programme>
+  <programme start="20210406110000 +0000" stop="20210406120000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Documentário</title>
+    <sub-title lang="pt">Um Ano de Covid-19</sub-title>
+    <desc lang="pt">Este documentário mostra o ano mais desafiante da história da UEFA através das histórias contadas pelos seus colaboradores, demonstrando os problemas que enfrentaram na organização dos jogos nos últimos meses.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121696228/4_3/684/513" />
+    <episode-num system="onscreen">Ep1</episode-num>
+  </programme>
+  <programme start="20210406120000 +0000" stop="20210406131500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <desc lang="pt">Acompanhe mais uma edição do Planeta Eleven programa de antevisão aos jogos deste fim de semana.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703837/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep34</episode-num>
+  </programme>
+  <programme start="20210406131500 +0000" stop="20210406151500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Liverpool x Leipzig: Champions League</title>
+    <sub-title lang="pt">Liverpool x Leipzig</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Liverpool x Leipzig.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_124074574/4_3/684/513" />
+  </programme>
+  <programme start="20210406151500 +0000" stop="20210406154500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Liga dos Campeões</title>
+    <desc lang="pt">Os resumos, reportagens, entrevistas exclusivas e as melhores imagens da Liga dos Campeões da UEFA.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121227566/4_3/684/513" />
+    <episode-num system="onscreen">Ep24</episode-num>
+  </programme>
+  <programme start="20210406154500 +0000" stop="20210406170000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Planeta Eleven</title>
+    <desc lang="pt">Acompanhe mais uma edição do Planeta Eleven programa de antevisão aos jogos deste fim de semana.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703837/4_3/684/513" />
+    <episode-num system="onscreen">T2 Ep34</episode-num>
+  </programme>
+  <programme start="20210406170000 +0000" stop="20210406180000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">LaLiga - Resumos da Jornada</title>
+    <sub-title lang="pt">RD 29</sub-title>
+    <desc lang="pt">Os resumos e os melhores momentos da última jornada do campeonato LaLiga.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703845/4_3/684/513" />
+    <episode-num system="onscreen">Ep29</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20210406180000 +0000" stop="20210406181500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+    <sub-title lang="pt">Portugal</sub-title>
+    <desc lang="pt">Conheça as ideias e influências que marcam o estilo de jogo dos clubes portugueses.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121610364/4_3/684/513" />
+    <episode-num system="onscreen">Ep4</episode-num>
+  </programme>
+  <programme start="20210406181500 +0000" stop="20210406190000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Champions Eleven - Pré Jogo</title>
+    <sub-title lang="pt">Real Madrid x Liverpool (Direto)</sub-title>
+    <desc lang="pt">Acompanhe a antevisão de todos os jogos da Liga dos Campeões com ligações em direto ao palco dos encontros.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_124074579/4_3/684/513" />
+  </programme>
+  <programme start="20210406190000 +0000" stop="20210406210000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Real Madrid x Liverpool (Direto): Champions League</title>
+    <sub-title lang="pt">Real Madrid x Liverpool (Direto)</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Real Madrid x Liverpool.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_124074580/4_3/684/513" />
+  </programme>
+  <programme start="20210406210000 +0000" stop="20210406214500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Champions Eleven - Pós Jogo</title>
+    <sub-title lang="pt">Real Madrid x Liverpool (Direto)</sub-title>
+    <desc lang="pt">Acompanhe o rescaldo de todos os jogos da Liga dos Campeões com ligações em direto ao palco dos encontros.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_124074581/4_3/684/513" />
+  </programme>
+  <programme start="20210406214500 +0000" stop="20210406224500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">La Liga El Clasico</title>
+    <sub-title lang="pt">O Filme</sub-title>
+    <desc lang="pt">Reveja o filme dos mais recentes encontros entre Barcelona e Real Madrid.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121472272/4_3/684/513" />
+    <episode-num system="onscreen">Ep1</episode-num>
+  </programme>
+  <programme start="20210406224500 +0000" stop="20210406230000 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+    <sub-title lang="pt">Portugal</sub-title>
+    <desc lang="pt">Conheça as ideias e influências que marcam o estilo de jogo dos clubes portugueses.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121610364/4_3/684/513" />
+    <episode-num system="onscreen">Ep4</episode-num>
+  </programme>
+  <programme start="20210406230000 +0000" stop="20210406231500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Champions League - Resumo do Dia</title>
+    <desc lang="pt">Assiste aos resumos dos jogos da Champions League.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121703850/4_3/684/513" />
+    <episode-num system="onscreen">Ep25</episode-num>
+  </programme>
+  <programme start="20210406231500 +0000" stop="20210406234500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Bundesliga Special Report - O Melhor do Mês</title>
+    <sub-title lang="pt">O Melhor do Mês de Março</sub-title>
+    <desc lang="pt">Os golos e as melhores jogadas do último mês no principal escalão do futebol alemão.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_121696237/4_3/684/513" />
+    <episode-num system="onscreen">Ep15</episode-num>
+  </programme>
+  <programme start="20210406234500 +0000" stop="20210407014500 +0000" channel="Eleven Sports 1 HD">
+    <title lang="pt">Man. City x Dortmund: Champions League</title>
+    <sub-title lang="pt">Man. City x Dortmund</sub-title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Man. City x Dortmund.(n)</desc>
+    <category lang="pt">Desporto</category>
+    <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/521_124074586/4_3/684/513" />
+  </programme>
+</tv>
